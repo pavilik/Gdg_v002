@@ -8,3 +8,8 @@
 
 Шаг3: изменили файл находящийся в секции шага 2.
 
+Результат: Файл отобразился в Changes not staged for commit:...
+        modified:   README_gdg_v001.txt
+
+
+
